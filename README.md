@@ -5,7 +5,7 @@ This project was bootstrapped with Create React App.
 
 ##PrintScreen
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](images/logo.png)
 Format: ![tesla-carro 1](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-0.png)
 
 ![GitHub Logo](/images/logo.png)
