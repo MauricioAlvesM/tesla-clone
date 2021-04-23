@@ -6,25 +6,25 @@ This project was bootstrapped with Create React App.
 ##PrintScreen
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-0.png)
+Format: ![tesla-carro 1](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-0.png)
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-0.5.png)
+Format: ![tesla-carro 2](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-0.5.png)
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-1.png)
+Format: ![tesla-carro 3](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-1.png)
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-2.png)
+Format: ![tesla-carro 4](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-2.png)
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-3.png)
+Format: ![tesla teto solar](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-3.png)
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-4.png)
+Format: ![tesla painel solar](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-4.png)
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-5.png)
+Format: ![tesla-acessorios](https://github.com/MauricioAlvesM/tesla-clone/blob/main/tesla-pg-5.png)
 
 
 
